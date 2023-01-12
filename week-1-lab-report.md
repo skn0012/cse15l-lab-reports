@@ -6,4 +6,4 @@
   
   2. Reset Password
 
-      * [https://code.visualstudio.com/download](https://code.visualstudio.com/download]
+      * https://code.visualstudio.com/download
