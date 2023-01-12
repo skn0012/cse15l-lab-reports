@@ -4,4 +4,6 @@
 
       * [VSCode](https://code.visualstudio.com/download)
   
-  2. 
+  2. Reset Password
+
+      * [https://code.visualstudio.com/download](https://code.visualstudio.com/download]
