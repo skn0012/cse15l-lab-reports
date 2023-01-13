@@ -14,4 +14,5 @@
 
       * https://code.visualstudio.com/download
       * Follow the directions the setup gives to install VSCode
-      * After finishing downloading
+      * It should look something like this after opening VSCode:
+      ![vscode](https://github.com/skn0012/cse15l-lab-reports/blob/5c7d7341a8aff76fc47eb5ce0dbf6c95720d1ab8/15lss2.PNG)
