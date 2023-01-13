@@ -42,6 +42,8 @@
       ![output](https://github.com/skn0012/cse15l-lab-reports/blob/6ddcb241ad9ec35cf2bc32c701c490fcdcd34199/15lss6.PNG)
       * Type yes into the terminal then press enter
       * Afterwards, the terminal asks for a password so you enter the password that you reset/changed to in Step 1 then press enter (password will not show up)
-      * The output should look like this:
+      * The output should look something like this:
       
       ![output2](https://github.com/skn0012/cse15l-lab-reports/blob/e76d04c8f7ef15a971f980f10a044634be00ce69/15lss7.PNG)
+      
+  That's how you connect to the ieng6 server. Thank you!      
