@@ -37,4 +37,6 @@
       * In the terminal, input 'ssh (username)@ieng6.ucsd.edu' then click enter. The input should look like this:
       
       ![username](https://github.com/skn0012/cse15l-lab-reports/blob/d87a7401f17b97b806b314bbd6fc27e69239de6f/15lss5.PNG)
-      *
+      * The output should look like this:
+      
+      ![output](https://github.com/skn0012/cse15l-lab-reports/blob/6ddcb241ad9ec35cf2bc32c701c490fcdcd34199/15lss6.PNG)
