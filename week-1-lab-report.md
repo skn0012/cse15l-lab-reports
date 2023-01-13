@@ -34,5 +34,7 @@
 
   5. Connecting to ieng6
 
-      * In the terminal, input 'ssh (username)@ieng6.ucsd.edu'. It should look like this:
-      ![username](https://github.com/skn0012/cse15l-lab-reports/blob/f2278a8173fb4972134d9cbccd60e136dad3d31c/15lss5.PNG)  
+      * In the terminal, input 'ssh (username)@ieng6.ucsd.edu' then click enter. The input should look like this:
+      
+      ![username](https://github.com/skn0012/cse15l-lab-reports/blob/d87a7401f17b97b806b314bbd6fc27e69239de6f/15lss5.PNG)
+      *
