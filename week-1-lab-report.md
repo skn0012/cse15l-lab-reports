@@ -1,5 +1,5 @@
 # **Week 1 Lab Report**
-## How to Log Into a Course-specific Account on ieng6!
+## How to Log Into a Course-Specific Account on ieng6!
 
   1. Reset Password
 
@@ -10,9 +10,13 @@
       ![accountName](https://github.com/skn0012/cse15l-lab-reports/blob/e8f10820caa12ccf8b93c0ad66feebc23ffeded3/15lss1.PNG)
       * Then, click "change your password" to reset your password
 
-  2. Download VSCode 
+  2. Download VSCode (skip if you already have VSCode installed) 
 
       * https://code.visualstudio.com/download
       * Follow the directions the setup gives to install VSCode
       * It should look something like this after opening VSCode:
       ![vscode](https://github.com/skn0012/cse15l-lab-reports/blob/5c7d7341a8aff76fc47eb5ce0dbf6c95720d1ab8/15lss2.PNG)
+      
+  3. Remotely Connecting to ieng6
+
+      * Download [Git](https://gitforwindows.org/) (WINDOWS USERS ONLY!)
