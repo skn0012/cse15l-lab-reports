@@ -28,3 +28,9 @@
 
       * At the top of VSCode, click 'Terminal' then 'New Terminal'
       * In the top right corner of the terminal, click on the drop down arrow next to the + sign and click on 'bash' (mainly for MacBook users but do the same if you have a different type of terminal open)
+      ![bashTerminal](https://github.com/skn0012/cse15l-lab-reports/blob/e8cf647b680d8f3f6f442a15c870f776ba903971/15lss4.PNG)
+      * If you have more than one terminal open, make sure you have bash selected
+
+  5. Connecting to ieng6
+
+      * 
