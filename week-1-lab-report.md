@@ -1,4 +1,4 @@
-# **Week 1 Lab Report**
+# **Week 1 Lab Report - Skyler Nguyen**
 ## How to Log Into a Course-Specific Account on ieng6!
 
   1. Reset Password
@@ -45,5 +45,12 @@
       * The output should look something like this:
       
       ![output2](https://github.com/skn0012/cse15l-lab-reports/blob/e76d04c8f7ef15a971f980f10a044634be00ce69/15lss7.PNG)
+      
+  6. Trying some Commands!
+
+      * Some commands that I tried!:
+      ![commands](https://user-images.githubusercontent.com/122576334/212242566-72f801a3-7184-4bf6-ab74-11702a9bf395.png)
+
+    
       
   And that's how you connect to the ieng6 server!    
