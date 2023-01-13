@@ -19,4 +19,5 @@
       
   3. Remotely Connecting to ieng6
 
-      * Download [Git](https://gitforwindows.org/) (WINDOWS USERS ONLY!)
+      * Download [Git for Windows](https://gitforwindows.org/) (WINDOWS USERS ONLY!)
+      * After finishing installing, open VSCode, press Ctrl + Shift + P, and type 'Select Default Profile'
