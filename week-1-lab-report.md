@@ -7,7 +7,7 @@
       * Input your Username and Student ID in the Account Lookup section and click submit
       * Afterwards, click on the button under additional accounts. It should look like this:
       
-      ![accountName](https://github.com/skn0012/cse15l-lab-reports/blob/e8f10820caa12ccf8b93c0ad66feebc23ffeded3/15lss1.PNG)
+      ![accountName](https://user-images.githubusercontent.com/122576334/212242991-d354665c-0b86-40bc-8dd2-2abcfe002fc3.png)
       * Then, click "change your password" to reset your password
 
   2. Download VSCode (skip if you already have VSCode installed!) 
@@ -15,21 +15,21 @@
       * https://code.visualstudio.com/download
       * Follow the directions the setup gives to install VSCode
       * It should look something like this after opening VSCode:
-      ![vscode](https://github.com/skn0012/cse15l-lab-reports/blob/5c7d7341a8aff76fc47eb5ce0dbf6c95720d1ab8/15lss2.PNG)
+      ![vscode](https://user-images.githubusercontent.com/122576334/212242961-5e9e3bc5-ee08-4d62-87ac-6d8b608d7308.png)
       
   3. Downloading Git for Windows (skip if you're a MacBook user!)
 
       * Download [Git for Windows](https://gitforwindows.org/)
       * After finishing installing, open VSCode, press Ctrl + Shift + P, and type 'Select Default Profile'
       * Click on 'Git Bash' as seen below (if it doesn't show up, close and reopen VSCode and do the same thing)
-      ![GitBash](https://github.com/skn0012/cse15l-lab-reports/blob/757238b524185e5fbfba27062f089dbd6df4f985/15lss3.PNG)
+      ![gitBash](https://user-images.githubusercontent.com/122576334/212242927-f71c2348-7b87-4b6e-9b9c-f310260f27a9.png)
       
   4. Opening the bash terminal
 
       * At the top of VSCode, click 'Terminal' then 'New Terminal'
       * In the top right corner of the terminal, click on the drop down arrow next to the + sign and click on 'bash' or 'Git Bash' (mainly for MacBook users but do the same if you have a different type of terminal open)
       
-      ![bashTerminal](https://github.com/skn0012/cse15l-lab-reports/blob/e8cf647b680d8f3f6f442a15c870f776ba903971/15lss4.PNG)
+      ![bashTerminal](https://user-images.githubusercontent.com/122576334/212242843-55c04320-37f0-493a-9358-b0880e81e039.png)
       * If you have more than one terminal open, make sure you have bash selected
 
   5. Connecting to ieng6
