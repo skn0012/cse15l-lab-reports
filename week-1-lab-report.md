@@ -44,7 +44,7 @@
       * Finally, the terminal asks for a password so you enter the password that you reset/changed to in Step 1 then press enter (password will not show up)
       * The output should look something like this:
       
-      ![output2](https://github.com/skn0012/cse15l-lab-reports/blob/e76d04c8f7ef15a971f980f10a044634be00ce69/15lss7.PNG)
+      ![output2](https://user-images.githubusercontent.com/122576334/212242627-ff9023ee-73a2-461e-a733-19b6788d6182.png)
       
   6. Trying some Commands!
 
