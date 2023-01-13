@@ -6,5 +6,5 @@
   
   2. Reset Password
 
-      * https://code.visualstudio.com/download
+      * https://sdacs.ucsd.edu/~icc/index.php
       * 
