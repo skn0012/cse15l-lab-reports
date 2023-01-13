@@ -27,11 +27,12 @@
   4. Opening the bash terminal
 
       * At the top of VSCode, click 'Terminal' then 'New Terminal'
-      * In the top right corner of the terminal, click on the drop down arrow next to the + sign and click on 'bash' (mainly for MacBook users but do the same if you have a different type of terminal open)
+      * In the top right corner of the terminal, click on the drop down arrow next to the + sign and click on 'bash' or 'Git Bash' (mainly for MacBook users but do the same if you have a different type of terminal open)
       
       ![bashTerminal](https://github.com/skn0012/cse15l-lab-reports/blob/e8cf647b680d8f3f6f442a15c870f776ba903971/15lss4.PNG)
       * If you have more than one terminal open, make sure you have bash selected
 
   5. Connecting to ieng6
 
-      * 
+      * In the terminal, input 'ssh (username)@ieng6.ucsd.edu'. It should look like this:
+      ![username](https://github.com/skn0012/cse15l-lab-reports/blob/f2278a8173fb4972134d9cbccd60e136dad3d31c/15lss5.PNG)  
