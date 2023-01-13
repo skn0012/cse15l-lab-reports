@@ -36,10 +36,10 @@
 
       * In the terminal, input 'ssh (username)@ieng6.ucsd.edu' then click enter. The input should look like this (red is to blur my letters/numbers):
       
-      ![username](https://github.com/skn0012/cse15l-lab-reports/blob/d87a7401f17b97b806b314bbd6fc27e69239de6f/15lss5.PNG)
+      ![username](https://user-images.githubusercontent.com/122576334/212242788-5f33f475-d931-49ed-90ae-a138d67769cf.png)
       * The output should look like this:
       
-      ![output](https://github.com/skn0012/cse15l-lab-reports/blob/6ddcb241ad9ec35cf2bc32c701c490fcdcd34199/15lss6.PNG)
+      ![output](https://user-images.githubusercontent.com/122576334/212242750-687eeb6f-acdf-4bc8-b655-b2df8f99cdf1.png)
       * Type yes into the terminal then press enter
       * Finally, the terminal asks for a password so you enter the password that you reset/changed to in Step 1 then press enter (password will not show up)
       * The output should look something like this:
