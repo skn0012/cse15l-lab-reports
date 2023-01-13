@@ -1,5 +1,5 @@
 # **Week 1 Lab Report**
-## How to log into a course-specific account on ieng6!
+## How to Log Into a Course-specific Account on ieng6!
   1. Download VSCode 
 
       * https://code.visualstudio.com/download
