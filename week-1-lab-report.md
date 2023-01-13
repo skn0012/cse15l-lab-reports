@@ -17,7 +17,9 @@
       * It should look something like this after opening VSCode:
       ![vscode](https://github.com/skn0012/cse15l-lab-reports/blob/5c7d7341a8aff76fc47eb5ce0dbf6c95720d1ab8/15lss2.PNG)
       
-  3. Remotely Connecting to ieng6
+  3. Downloading Git for Windows (skip if you're a MacBook user)
 
-      * Download [Git for Windows](https://gitforwindows.org/) (WINDOWS USERS ONLY!)
+      * Download [Git for Windows](https://gitforwindows.org/)
       * After finishing installing, open VSCode, press Ctrl + Shift + P, and type 'Select Default Profile'
+      * Click on 'Git Bash' as seen below (if it doesn't show up, close and reopen VSCode and do the same thing)
+      ![GitBash](https://github.com/skn0012/cse15l-lab-reports/blob/757238b524185e5fbfba27062f089dbd6df4f985/15lss3.PNG)
