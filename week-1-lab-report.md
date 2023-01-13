@@ -6,5 +6,5 @@
   
   2. Reset Password
 
-      * https://sdacs.ucsd.edu/~icc/index.php
+      * Use this [link](https://sdacs.ucsd.edu/~icc/index.php) to reset your password
       * 
