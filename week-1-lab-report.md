@@ -3,7 +3,7 @@
 
   1. Reset Password
 
-      * Use this [resetPassword](https://sdacs.ucsd.edu/~icc/index.php) to reset your password
+      * Use this [link](https://sdacs.ucsd.edu/~icc/index.php) to reset your password
       * Input your Username and Student ID in the Account Lookup section and click submit
       * Afterwards, click on the button under additional accounts. It should look like this:
       
