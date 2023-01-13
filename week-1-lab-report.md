@@ -46,4 +46,4 @@
       
       ![output2](https://github.com/skn0012/cse15l-lab-reports/blob/e76d04c8f7ef15a971f980f10a044634be00ce69/15lss7.PNG)
       
-  That's how you connect to the ieng6 server!      
+  Done!    
