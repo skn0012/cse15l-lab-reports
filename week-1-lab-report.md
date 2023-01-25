@@ -2,15 +2,12 @@
  ## How to Log Into a Course-Specific Account on ieng6!
 
    # 1 Reset Password
-
-      * Use this 
-   [link](https://sdacs.ucsd.edu/~icc/index.php) 
-      to reset your password
-      * Input your Username and Student ID in the Account Lookup section and click submit
-      * Afterwards, click on the button under additional accounts. It should look like this:
+   * Use this [link](https://sdacs.ucsd.edu/~icc/index.php) to reset your password
+   * Input your Username and Student ID in the Account Lookup section and click submit
+   * Afterwards, click on the button under additional accounts. It should look like this:
       
    ![accountName](https://user-images.githubusercontent.com/122576334/212242991-d354665c-0b86-40bc-8dd2-2abcfe002fc3.png)
-      * Then, click "change your password" to reset your password
+   * Then, click "change your password" to reset your password
 
    2. Download VSCode (skip if you already have VSCode installed!) 
 
