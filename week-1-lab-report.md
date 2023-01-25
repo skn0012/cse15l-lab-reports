@@ -33,7 +33,7 @@
 
   ## 5. Connecting to ieng6
 
-   * In the terminal, input *ssh (username)@ieng6.ucsd.edu* then click enter. The input should look like this (red is to blur my letters/numbers):
+   * In the terminal, input ==ssh (username)@ieng6.ucsd.edu== then click enter. The input should look like this (red is to blur my letters/numbers):
       
    ![username](https://user-images.githubusercontent.com/122576334/212242788-5f33f475-d931-49ed-90ae-a138d67769cf.png)
    * The output should look like this:
