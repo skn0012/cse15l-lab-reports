@@ -12,7 +12,7 @@
 
   2. Download VSCode (skip if you already have VSCode installed!) 
 
-      * https://code.visualstudio.com/download
+      * [vscodelink](https://code.visualstudio.com/download)
       * Follow the directions the setup gives to install VSCode
       * It should look something like this after opening VSCode:
       ![vscode](https://user-images.githubusercontent.com/122576334/212242961-5e9e3bc5-ee08-4d62-87ac-6d8b608d7308.png)
