@@ -1,7 +1,8 @@
 # **Week 1 Lab Report - Skyler Nguyen**
-   # How to Log Into a Course-Specific Account on ieng6!
+# How to Log Into a Course-Specific Account on ieng6!
 
 ## 1. Reset Password
+   
    * Use this [link](https://sdacs.ucsd.edu/~icc/index.php) to reset your password
    * Input your Username and Student ID in the Account Lookup section and click submit
    * Afterwards, click on the button under additional accounts. It should look like this:
@@ -16,14 +17,14 @@
    * It should look something like this after opening VSCode:
    ![vscode](https://user-images.githubusercontent.com/122576334/212242961-5e9e3bc5-ee08-4d62-87ac-6d8b608d7308.png)
       
-  ## 3. Downloading Git for Windows (skip if you're a MacBook user!)
+## 3. Downloading Git for Windows (skip if you're a MacBook user!)
 
    * Download [Git for Windows](https://gitforwindows.org/)
    * After finishing installing, open VSCode, press Ctrl + Shift + P, and type 'Select Default Profile'
    * Click on 'Git Bash' as seen below (if it doesn't show up, close and reopen VSCode and do the same thing)
    ![gitBash](https://user-images.githubusercontent.com/122576334/212242927-f71c2348-7b87-4b6e-9b9c-f310260f27a9.png)
       
-  ## 4. Opening the bash terminal
+## 4. Opening the bash terminal
 
    * At the top of VSCode, click 'Terminal' then 'New Terminal'
    * In the top right corner of the terminal, click on the drop down arrow next to the + sign and click on 'bash' or 'Git Bash' (mainly for MacBook users but do the same if you have a different type of terminal open)
@@ -31,7 +32,7 @@
    ![bashTerminal](https://user-images.githubusercontent.com/122576334/212242843-55c04320-37f0-493a-9358-b0880e81e039.png)
    * If you have more than one terminal open, make sure you have bash selected
 
-  ## 5. Connecting to ieng6
+## 5. Connecting to ieng6
 
    * In the terminal, input **ssh (username)@ieng6.ucsd.edu** then press enter. The input should look like this (red is to blur my letters/numbers):
       
@@ -45,7 +46,7 @@
       
    ![output2](https://user-images.githubusercontent.com/122576334/212242627-ff9023ee-73a2-461e-a733-19b6788d6182.png)
       
-  ## 6. Trying some Commands!
+## 6. Trying some Commands!
 
    * Some commands that I tried!:
    ![commands](https://user-images.githubusercontent.com/122576334/212242566-72f801a3-7184-4bf6-ab74-11702a9bf395.png)
