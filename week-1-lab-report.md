@@ -1,7 +1,7 @@
 # **Week 1 Lab Report - Skyler Nguyen**
    # How to Log Into a Course-Specific Account on ieng6!
 
-   ## 1. Reset Password
+   # 1. Reset Password
    * Use this [link](https://sdacs.ucsd.edu/~icc/index.php) to reset your password
    * Input your Username and Student ID in the Account Lookup section and click submit
    * Afterwards, click on the button under additional accounts. It should look like this:
