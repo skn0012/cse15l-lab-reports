@@ -1,7 +1,7 @@
 # **Week 1 Lab Report - Skyler Nguyen**
  ## How to Log Into a Course-Specific Account on ieng6!
 
-   # 1 Reset Password
+   ### 1. Reset Password
    * Use this [link](https://sdacs.ucsd.edu/~icc/index.php) to reset your password
    * Input your Username and Student ID in the Account Lookup section and click submit
    * Afterwards, click on the button under additional accounts. It should look like this:
@@ -9,12 +9,12 @@
    ![accountName](https://user-images.githubusercontent.com/122576334/212242991-d354665c-0b86-40bc-8dd2-2abcfe002fc3.png)
    * Then, click "change your password" to reset your password
 
-   2. Download VSCode (skip if you already have VSCode installed!) 
+   ### 2. Download VSCode (skip if you already have VSCode installed!) 
 
-      * [VSCode](https://code.visualstudio.com/download)
-      * Follow the directions the setup gives to install VSCode
-      * It should look something like this after opening VSCode:
-      ![vscode](https://user-images.githubusercontent.com/122576334/212242961-5e9e3bc5-ee08-4d62-87ac-6d8b608d7308.png)
+   * [VSCode](https://code.visualstudio.com/download)
+   * Follow the directions the setup gives to install VSCode
+   * It should look something like this after opening VSCode:
+   ![vscode](https://user-images.githubusercontent.com/122576334/212242961-5e9e3bc5-ee08-4d62-87ac-6d8b608d7308.png)
       
   ### 3. Downloading Git for Windows (skip if you're a MacBook user!)
 
