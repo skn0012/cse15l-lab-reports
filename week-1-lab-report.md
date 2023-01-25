@@ -1,5 +1,6 @@
 # **Week 1 Lab Report - Skyler Nguyen**
-## How to Log Into a Course-Specific Account on ieng6!
+
+# How to Log Into a Course-Specific Account on ieng6!
 
 ## 1. Reset Password
    
