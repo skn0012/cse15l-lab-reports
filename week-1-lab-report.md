@@ -33,7 +33,7 @@
 
   ## 5. Connecting to ieng6
 
-   * In the terminal, input **ssh (username)@ieng6.ucsd.edu** then click enter. The input should look like this (red is to blur my letters/numbers):
+   * In the terminal, input **ssh (username)@ieng6.ucsd.edu** then press enter. The input should look like this (red is to blur my letters/numbers):
       
    ![username](https://user-images.githubusercontent.com/122576334/212242788-5f33f475-d931-49ed-90ae-a138d67769cf.png)
    * The output should look like this:
@@ -49,7 +49,11 @@
 
    * Some commands that I tried!:
    ![commands](https://user-images.githubusercontent.com/122576334/212242566-72f801a3-7184-4bf6-ab74-11702a9bf395.png)
-
+   * The first command changed the to the home directory
+   * The second command doesn't do anything as there is no directory to change to
+   * The third command prints out all the files in order of last used/changed
+   * The fourth command just prints out all the files
+   * The last command prints out what's in hello.txt
     
       
   And that's how you connect to the ieng6 server!    
