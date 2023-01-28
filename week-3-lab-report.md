@@ -22,12 +22,22 @@
 ## Part 2
 
 * The bugged method is reversed.
-* Failure-unducing input:
+
+* Failure-inducing input:
 ```
   @Test 
   public void testBugReversed() {
     int[] input = {0, 1};
     assertArrayEquals(new int[]{1, 0}, ArrayExamples.reversed(input));
+  }
+```
+
+* An input that doesn't induce a failure:
+```
+  @Test 
+  public void testBugReversed() {
+    int[] input = {0};
+    assertArrayEquals(new int[]{0}, ArrayExamples.reversed(input));
   }
 ```
 
