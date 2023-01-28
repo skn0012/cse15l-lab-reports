@@ -41,7 +41,7 @@
 ```
 
 * The symptom:
-<img width="742" alt="image" src="https://user-images.githubusercontent.com/122576334/215242899-7142f2d6-b49f-4a0f-8a13-446d2a6e18d6.png">
+<img width="742" alt="image" src="https://user-images.githubusercontent.com/122576334/215243565-d67d8f84-f4ae-42e8-9b88-8a87d2e57e93.png">
 
 * The bug before:
 ```
