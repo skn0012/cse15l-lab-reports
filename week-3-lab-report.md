@@ -4,15 +4,14 @@
 
 ## Part 1
 
-* Code for String Server
+* Code for StringServer
 
 <img width="509" alt="image" src="https://user-images.githubusercontent.com/122576334/215218619-6f594c17-be54-4aa7-a522-560d4568e1de.png">
 <img width="583" alt="image" src="https://user-images.githubusercontent.com/122576334/215218826-653fd00e-9f5d-445f-a602-8863513ce81c.png">
 
-* Screenshot of /add-message
+* Screenshots of /add-message
 
 <img width="284" alt="image" src="https://user-images.githubusercontent.com/122576334/215219046-7f3aa4b3-d537-41d7-9731-3b15e6b60300.png">
-
 <img width="353" alt="image" src="https://user-images.githubusercontent.com/122576334/215219079-d698c7fd-8478-4b84-b923-88dd0e075159.png">
 
 * The methods main and handleRequest are called.
