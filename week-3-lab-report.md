@@ -13,7 +13,7 @@
 
 <img width="284" alt="image" src="https://user-images.githubusercontent.com/122576334/215219046-7f3aa4b3-d537-41d7-9731-3b15e6b60300.png">
 
-<img width="353" alt="image" src="https://user-images.githubusercontent.com/122576334/215219079-d698c7fd-8478-4b84-b923-88dd0e075159.png">
+  <img width="353" alt="image" src="https://user-images.githubusercontent.com/122576334/215219079-d698c7fd-8478-4b84-b923-88dd0e075159.png">
 
 * The methods main and handleRequest are called.
 * The relevant argument is parameters[1] + "\n" which adds the message to the variable to be printed out. The values of messages are all the strings that are being added.
@@ -43,7 +43,7 @@
 
 * The symptom:
 
-<img width="742" alt="image" src="https://user-images.githubusercontent.com/122576334/215243565-d67d8f84-f4ae-42e8-9b88-8a87d2e57e93.png">
+  <img width="742" alt="image" src="https://user-images.githubusercontent.com/122576334/215243565-d67d8f84-f4ae-42e8-9b88-8a87d2e57e93.png">
 
 * The bug before:
 ```
