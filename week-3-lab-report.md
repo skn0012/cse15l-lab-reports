@@ -35,11 +35,34 @@
 * An input that doesn't induce a failure:
 ```
   @Test 
-  public void testBugReversed() {
+  public void testBugReversed2() {
     int[] input = {0};
     assertArrayEquals(new int[]{0}, ArrayExamples.reversed(input));
   }
 ```
 
+* The symptom:
+<img width="742" alt="image" src="https://user-images.githubusercontent.com/122576334/215242899-7142f2d6-b49f-4a0f-8a13-446d2a6e18d6.png">
+
+* The bug before:
+```
+  static int[] reversed(int[] arr) {
+    int[] newArray = new int[arr.length];
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = newArray[arr.length - i - 1];
+    }
+    return arr;
+  }
+```
+
+* The bug after:
+```
+  static int[] reversed(int[] arr) {
+    int[] newArray = new int[arr.length];
+    for(int i = 0; i < arr.length; i += 1) {
+      newArray[i] = arr[arr.length - i - 1];
+    }
+    return newArray;
+  }
 
 
