@@ -64,9 +64,12 @@
     }
     return newArray;
   }
+```
 
-* The fix addressed the issue because the for loop was trying changing the elements of the old array with elements with the new array but the new array has no elements in it so it changed the old array into {0, 0}. Additionally, we want to return the new array, not the old one.
+* The fix addressed the issue because the for loop was trying to change the elements of the old array with elements with the new array but the new array has no elements in it so it changed the old array into {0, 0}. Additionally, we want to return the new array with the reversed elements, not the old one.
 
 ## Part 3
+
+* Something I learned in Week 2 that I didn't know before was that you can create and start your own server using VSCode. In CSE 11, we only learned the basics of java and didn't get into any other things. Thus, learning that you can start a server was cool.
 
 
