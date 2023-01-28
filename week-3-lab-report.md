@@ -65,4 +65,8 @@
     return newArray;
   }
 
+* The fix addressed the issue because the for loop was trying changing the elements of the old array with elements with the new array but the new array has no elements in it so it changed the old array into {0, 0}. Additionally, we want to return the new array, not the old one.
+
+## Part 3
+
 
