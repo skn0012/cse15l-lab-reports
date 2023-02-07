@@ -17,7 +17,7 @@
 
 * The methods 'main' and 'handleRequest' are called in both screenshots. 'main' starts a server using a port number when running StringServer.java. 'handleRequest' takes the argument url and prints out the field 'messages' onto the server.
 * The relevant arguments to those methods are the user's port number and the url of the server. The value of the field 'messages' changes everytime the user reloads the server or changes the url after '/add-message?s='. This is done by the 'handleRequest' method getting the path of the field (using getPath) 'url' which is just the url of the server and then checks if it has /add-message' in it. If it does, the values of the field 'parameters' is set using getQuery.split("=") which takes in everything after the question mark and then sets index 0 of 'parameters' the element to the left side of the equal sign and index 1 of 'parameters' the element to the right side of the the equal sign. Lastly, the method checks if index 0 of 'parameters' is 's' and if it is, adds the element of index 1 of 'parameters'.
-* The value of messages gets changed everytime the server is ran and there is a message to add.
+* The value of the field 'messages' gets changed everytime there is a message while 'parameters' only changes if the element after the equal sign is changed.
 
 ## Part 2
 
