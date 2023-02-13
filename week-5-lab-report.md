@@ -4,7 +4,7 @@
 
 * I have chosen the command grep.
 
-1. **grep 'string' filename**. It searches a specific file that the user inputs for the exact string the user wants (ex. only searches for "Lucayans", not "lucayans"). It's useful for searching for a specific string in a specific file.
+1. **grep 'string' filename**. This searches a specific file that the user inputs for the exact string the user wants (ex. only searches for "Lucayans", not "lucayans"). It's useful for searching for a specific string in a specific file.
 ```
 grep "Lucayans" written_2/travel_guides/berlitz2/Bahamas-History.txt
 
@@ -20,7 +20,7 @@ The Spaniards never bothered to settle in the Bahamas, but the number of shipwre
 In 1648 a group of English Puritans from Bermuda, led by William Sayle, sailed to Bahamian waters and established the first permanent European settlement on the island they named Eleutheria (now Eleuthera) after the Greek word for freedom. The 70 colonists called themselves the Eleutherian Adventurers, but life was very difficult and the colony never flourished, though Sayle was long honored for the effort. In 1666 a smaller island (called Sayle’s island) with a fine harbor was settled by Bermudians and renamed New Providence. It was later to become known as Nassau, capital of the Bahamas.
 ```
 
-2. **grep -i 'string' filename**.
+2. **grep -i 'string' filename**. This searches a specific file that the user inputs for a case-insensitive string that the user wants (ex. both "when" and "When"). It's useful for searching for a string, regardless of capitalization, in a specific file.
 ```
 grep -i "When" written_2/travel_guides/berlitz2/Bahamas-History.txt
 
@@ -39,4 +39,23 @@ Little is known of the earliest Stone Age inhabitants of Europe’s southwestern
 According to tradition, the site of Prince Henry’s base was the Sagres peninsula (see page 22), though there is little there today to persuade you of this. The actual headquarters of the Navigation School may have been 40 km (25 miles) east, in Lagos (see page 26). This location had a port, shipyards, and was home to the prince in his role as governor of the Algarve.
 
 Among the early blows struck for independence was a rebellion in the town of Olhão (see page 57). On 16 June 1808, the townsfolk — armed with little more than ancient swords, spears, and stones — attacked and captured the local French garrison. It’s said that a party of local men then set sail from Olhão all the way to Brazil, without maps or navigational aids, to tell the king of the insurrection. The real battle, however, was waged under the leadership of the Duke of Wellington, whose coalition forces expelled the French after two years of bitter fighting.
+```
+
+3. **grep -r "string" directory**. This searches a directory and all of its sub-directories for a specific string.
+```
+grep -r "trident" written_2
+
+written_2/travel_guides/berlitz1/HistoryEdinburgh.txt:        although many strident nationalists thought the proposals did not go
+
+written_2/travel_guides/berlitz1/WhereToItaly.txt:        Nettuno), the burly sea god wields his trident in petrified parody of
+
+written_2/travel_guides/berlitz1/WhereToMalaysia.txt:        range of quite strident regulations governing park usage and duration
+
+written_2/travel_guides/berlitz2/Athens-History.txt:First came Poseidon, who struck the rock of the Acropolis with his mighty trident and brought salt water gushing forth. Then it was Athena’s turn. As she struck the rock an olive tree appeared, which proved more useful and valuable. Thus she acquired the position of the city’s special protector.
+
+written_2/travel_guides/berlitz2/Athens-WhereToGo.txt:Room 15 is dominated by a fine statue of Poseidon in bronze (460 b.c.) found in the sea off the island of Euboea. The god is set to launch his trident against foes unknown. The Hall of the Stairs hosts another statue dredged from the sea, that of the Jockey of the Artemision. The diminutive jockey drives on the handsome steed which has its two front legs raised into the air, as if about to leap over an invisible obstacle.
+
+written_2/travel_guides/berlitz2/Canada-WhereToGo.txt:The true marvel of Niagara is how nature manages to triumph over tawdry commercialism, perhaps less strident on the Canadian than on the American side of the border marked by the Falls. No amount of pushy peddlers or tacky pink honeymoon motels (if you do stay overnight, ask to see one of the hilarious bridal suites) can diminish the spectacle of that mass of white water taking its awesome plunge on the way from Lake Erie towards Lake Ontario and the Atlantic.    
+
+written_2/travel_guides/berlitz2/Nepal-History.txt:Shiva, as Pashupati, is the lord of the animals and the guardian of Nepal. He has 1,008 names in Sanskrit literature. As Mahadev, he is lord of reproduction represented by the lingam, a phallus symbol often appearing in his temples as a stump of stone rising from the female symbol, a disk called the yoni. Shiva is also lord of learning and dance. As bloodthirsty Bhairav, fanged and festooned with skulls, he destroys at will. But he also destroys ignorance and misfortunes — the reason he is the symbol of Royal Nepal Airlines. A statue of Nandi, the bull, and a trident sign mark the temples of Shiva.
 ```
