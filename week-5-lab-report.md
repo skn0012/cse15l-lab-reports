@@ -4,7 +4,7 @@
 
 * I have chosen the command grep.
 
-1. **grep 'string' filename**. This searches a specific file that the user inputs for the exact string the user wants (ex. only searches for "Lucayans", not "lucayans"). It's useful for searching for a specific string in a specific file.
+## 1. **grep 'string' filename**. This searches a specific file that the user inputs for the exact string the user wants (ex. only searches for "Lucayans", not "lucayans"). It's useful for searching for a specific string in a specific file.
 ```
 grep "Lucayans" written_2/travel_guides/berlitz2/Bahamas-History.txt
 
@@ -21,7 +21,7 @@ In 1648 a group of English Puritans from Bermuda, led by William Sayle, sailed t
 ```
 
 
-2. **grep -i 'string' filename**. This searches a specific file that the user inputs for a case-insensitive string that the user wants (ex. both "when" and "When"). It's useful for searching for a string, regardless of capitalization, in a specific file.
+## 2. **grep -i 'string' filename**. This searches a specific file that the user inputs for a case-insensitive string that the user wants (ex. both "when" and "When"). It's useful for searching for a string, regardless of capitalization, in a specific file.
 ```
 grep -i "When" written_2/travel_guides/berlitz2/Bahamas-History.txt
 
@@ -43,7 +43,7 @@ Among the early blows struck for independence was a rebellion in the town of Olh
 ```
 
 
-3. **grep -r "string" directory**. This searches a directory and all of its sub-directories for a specific string.
+## 3. **grep -r "string" directory**. This searches a directory and all of its sub-directories for a specific string.
 ```
 grep -r "trident" written_2
 
