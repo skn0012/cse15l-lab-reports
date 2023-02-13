@@ -15,6 +15,7 @@ Centuries before the arrival of Columbus, a peaceful Amerindian people who calle
 
 The Spaniards never bothered to settle in the Bahamas, but the number of shipwrecks attest that their galleons frequently passed through the archipelago en route to and from the Caribbean, Florida, Bermuda, and their home ports. On Eleuthera the explorers dug a fresh-water well — at a spot now known as “Spanish Wells” — which was used to replenish the supplies of water on their ships before they began the long journey back to Europe with their cargoes of South American gold. As for the Lucayans, within 25 years all of them, perhaps some 30,000 people, were removed from the Bahamas to work — and die — in Spanish gold mines and on farms and pearl fisheries on Hispaniola (Haiti), Cuba, and elsewhere in the Caribbean.
 ```
+
 ```
 grep "Bermuda" written_2/travel_guides/berlitz2/Bahamas-History.txt
 
@@ -24,7 +25,10 @@ In 1648 a group of English Puritans from Bermuda, led by William Sayle, sailed t
 ```
 
 
-## 2. **grep -i 'string' filename**. This searches a specific file that the user inputs for a case-insensitive string that the user wants (ex. both "when" and "When"). It's useful for searching for a string, regardless of capitalization, in a specific file.
+## 2. **grep -i 'string' filename**. 
+
+* This searches a specific file that the user inputs for a case-insensitive string that the user wants (ex. both "when" and "When"). It's useful for searching for a string, regardless of capitalization, in a specific file.
+
 ```
 grep -i "When" written_2/travel_guides/berlitz2/Bahamas-History.txt
 
@@ -35,6 +39,7 @@ When the 13 American colonies, enraged by the Stamp Tax, got into the war that e
 Over the centuries, trouble on the nearby American continent has often meant good news for the Bahamas. When Lincoln ordered a blockade of the southern states in 1861 after the outbreak of the Civil War, the Bahamas quickly boomed. Nassau harbor was busy with ships unloading Confederate cotton and tobacco and taking aboard arms, medicine, and manufactured goods, mainly from Europe, to be run back through the northern blockade. As the war went on, speedy and camouflaged contraband vessels were built to slip past the ever-increasing Federal patrols. Profits from blockade running were incredible, and Nassau went wild. But the extravagant parties and carefree spending stopped abruptly with the North’s victory in 1865. Late the following year an immense hurricane sent a tidal wave over Hog Island (today Paradise Island), smashing Nassau’s flimsy buildings and ruining crops. Other islands were also devastated. As the Bahamas sank back into economic doldrums, citizens turned to agriculture, fishing, or salt raking. The spread of lighthouses and decent navigational charts had crippled the old standby, the wrecking trade.
 When the boom suddenly came to an end with the worldwide depression and the repeal of Prohibition in 1933, unemployment rose again, despite the first significant tourism the Bahamas had known.
 ```
+
 ```
 grep -i "little" written_2/travel_guides/berlitz2/Algarve-History.txt
 
@@ -46,7 +51,18 @@ Among the early blows struck for independence was a rebellion in the town of Olh
 ```
 
 
-## 3. **grep -r "string" directory**. This searches a directory and all of its sub-directories for a specific string.
+## 3. **grep -r "string" directory**. 
+
+* This searches a directory and all of its sub-directories for a specific string. It's useful for searching a whole entire directory for a specific string instead of searching individually.
+
+```
+grep -r "Lucayans" written_2
+
+written_2/travel_guides/berlitz2/Bahamas-History.txt:Centuries before the arrival of Columbus, a peaceful Amerindian people who called themselves the Luccucairi had settled in the Bahamas. Originally from South America, they had traveled up through the Caribbean islands, surviving by cultivating modest crops and from what they caught from sea and shore. Nothing in the experience of these gentle people could have prepared them for the arrival of the Pinta, the Niña, and the Santa Maria at San Salvador on 12 October 1492. Columbus believed that he had reached the East Indies and mistakenly called these people Indians. We know them today as the Lucayans. Columbus claimed the island and others in the Bahamas for his royal Spanish patrons, but not finding the gold and other riches he was seeking, he stayed for only two weeks before sailing towards Cuba.
+
+written_2/travel_guides/berlitz2/Bahamas-History.txt:The Spaniards never bothered to settle in the Bahamas, but the number of shipwrecks attest that their galleons frequently passed through the archipelago en route to and from the Caribbean, Florida, Bermuda, and their home ports. On Eleuthera the explorers dug a fresh-water well — at a spot now known as “Spanish Wells” — which was used to replenish the supplies of water on their ships before they began the long journey back to Europe with their cargoes of South American gold. As for the Lucayans, within 25 years all of them, perhaps some 30,000 people, were removed from the Bahamas to work — and die — in Spanish gold mines and on farms and pearl fisheries on Hispaniola (Haiti), Cuba, and elsewhere in the Caribbean.
+```
+
 ```
 grep -r "trident" written_2
 
@@ -63,4 +79,19 @@ written_2/travel_guides/berlitz2/Athens-WhereToGo.txt:Room 15 is dominated by a 
 written_2/travel_guides/berlitz2/Canada-WhereToGo.txt:The true marvel of Niagara is how nature manages to triumph over tawdry commercialism, perhaps less strident on the Canadian than on the American side of the border marked by the Falls. No amount of pushy peddlers or tacky pink honeymoon motels (if you do stay overnight, ask to see one of the hilarious bridal suites) can diminish the spectacle of that mass of white water taking its awesome plunge on the way from Lake Erie towards Lake Ontario and the Atlantic.    
 
 written_2/travel_guides/berlitz2/Nepal-History.txt:Shiva, as Pashupati, is the lord of the animals and the guardian of Nepal. He has 1,008 names in Sanskrit literature. As Mahadev, he is lord of reproduction represented by the lingam, a phallus symbol often appearing in his temples as a stump of stone rising from the female symbol, a disk called the yoni. Shiva is also lord of learning and dance. As bloodthirsty Bhairav, fanged and festooned with skulls, he destroys at will. But he also destroys ignorance and misfortunes — the reason he is the symbol of Royal Nepal Airlines. A statue of Nandi, the bull, and a trident sign mark the temples of Shiva.
+```
+
+
+## 4. **grep -c 'string' filename**
+
+* This searches a specific file and displays the amount of times the string is used in the file. It's useful for 
+
+```
+grep -c "Lucayans" written_2/travel_guides/berlitz2/Bahamas-History.txt
+2
+```
+
+```
+grep -c "Bahamas" written_2/travel_guides/berlitz2/Bahamas-History.txt
+23
 ```
