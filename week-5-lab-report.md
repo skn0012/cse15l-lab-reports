@@ -84,7 +84,7 @@ written_2/travel_guides/berlitz2/Nepal-History.txt:Shiva, as Pashupati, is the l
 
 ## 4. **grep -c 'string' filename**
 
-* This searches a specific file and displays the amount of times the string is used in the file. It's useful for 
+* This searches a specific file and displays the amount of times the string is used in the file. It's useful for finding out how many times a specific string is used in a specific file. 
 
 ```
 grep -c "Lucayans" written_2/travel_guides/berlitz2/Bahamas-History.txt
