@@ -4,7 +4,7 @@
 
 * I chose the command grep.
 
-## 1. **grep 'string' filename**. 
+## 1. **grep 'string' filename** 
 
 * This searches a specific file that the user inputs for the exact string the user wants (ex. only searches for "Lucayans", not "lucayans"). This includes if the word is part of another word (ex. searching for "an", "and" would be outputted as well). That goes for all the other grep commands. It's useful for searching for a specific string in a specific file.
 
@@ -25,7 +25,7 @@ In 1648 a group of English Puritans from Bermuda, led by William Sayle, sailed t
 ```
 
 
-## 2. **grep -i 'string' filename**. 
+## 2. **grep -i 'string' filename** 
 
 * This searches a specific file that the user inputs for a case-insensitive string that the user wants (ex. both "when" and "When"). It's useful for searching for a string, regardless of capitalization, in a specific file.
 
@@ -51,7 +51,7 @@ Among the early blows struck for independence was a rebellion in the town of Olh
 ```
 
 
-## 3. **grep -r 'string' directory**. 
+## 3. **grep -r 'string' directory** 
 
 * This searches a directory and all of its sub-directories for a specific string. It's useful for searching a whole entire directory for a specific string instead of searching individually.
 
