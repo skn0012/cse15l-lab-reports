@@ -6,7 +6,7 @@
 
 ## 1. **grep 'string' filename**. 
 
-* This searches a specific file that the user inputs for the exact string the user wants (ex. only searches for "Lucayans", not "lucayans"). It's useful for searching for a specific string in a specific file.
+* This searches a specific file that the user inputs for the exact string the user wants (ex. only searches for "Lucayans", not "lucayans"). This includes if the word is part of another word (ex. searching for "an", "and" would be outputted as well). That goes for all the other grep commands. It's useful for searching for a specific string in a specific file.
 
 ```
 grep "Lucayans" written_2/travel_guides/berlitz2/Bahamas-History.txt
