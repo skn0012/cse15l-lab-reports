@@ -20,6 +20,7 @@ The Spaniards never bothered to settle in the Bahamas, but the number of shipwre
 In 1648 a group of English Puritans from Bermuda, led by William Sayle, sailed to Bahamian waters and established the first permanent European settlement on the island they named Eleutheria (now Eleuthera) after the Greek word for freedom. The 70 colonists called themselves the Eleutherian Adventurers, but life was very difficult and the colony never flourished, though Sayle was long honored for the effort. In 1666 a smaller island (called Sayle’s island) with a fine harbor was settled by Bermudians and renamed New Providence. It was later to become known as Nassau, capital of the Bahamas.
 ```
 
+
 2. **grep -i 'string' filename**. This searches a specific file that the user inputs for a case-insensitive string that the user wants (ex. both "when" and "When"). It's useful for searching for a string, regardless of capitalization, in a specific file.
 ```
 grep -i "When" written_2/travel_guides/berlitz2/Bahamas-History.txt
@@ -40,6 +41,7 @@ According to tradition, the site of Prince Henry’s base was the Sagres peninsu
 
 Among the early blows struck for independence was a rebellion in the town of Olhão (see page 57). On 16 June 1808, the townsfolk — armed with little more than ancient swords, spears, and stones — attacked and captured the local French garrison. It’s said that a party of local men then set sail from Olhão all the way to Brazil, without maps or navigational aids, to tell the king of the insurrection. The real battle, however, was waged under the leadership of the Duke of Wellington, whose coalition forces expelled the French after two years of bitter fighting.
 ```
+
 
 3. **grep -r "string" directory**. This searches a directory and all of its sub-directories for a specific string.
 ```
