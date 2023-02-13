@@ -2,7 +2,7 @@
 
 ## Researching Commands
 
-* I have chosen the command grep.
+* I chose the command grep.
 
 ## 1. **grep 'string' filename**. 
 
