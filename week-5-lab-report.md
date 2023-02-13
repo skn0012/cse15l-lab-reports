@@ -20,4 +20,23 @@ The Spaniards never bothered to settle in the Bahamas, but the number of shipwre
 In 1648 a group of English Puritans from Bermuda, led by William Sayle, sailed to Bahamian waters and established the first permanent European settlement on the island they named Eleutheria (now Eleuthera) after the Greek word for freedom. The 70 colonists called themselves the Eleutherian Adventurers, but life was very difficult and the colony never flourished, though Sayle was long honored for the effort. In 1666 a smaller island (called Sayle’s island) with a fine harbor was settled by Bermudians and renamed New Providence. It was later to become known as Nassau, capital of the Bahamas.
 ```
 
-2. 
+2. **grep -i 'string' filename**.
+```
+grep -i "When" written_2/travel_guides/berlitz2/Bahamas-History.txt
+
+English sea captains also came to know the beautiful but deserted Bahamian islands during the 17th century. England’s first formal move was on 30 October 1629, when Charles I granted the Bahamas and a chunk of the American south to his Attorney General, Sir Robert Health. But nothing came of that, nor of a rival French move in 1633 when Cardinal Richelieu, the 17th-century French statesman, tried claiming the islands for France.
+
+When the 13 American colonies, enraged by the Stamp Tax, got into the war that eventually brought independence, the Bahamas somewhat reluctantly found itself on England’s side. But reluctance dissolved as profits from privateering once again flowed into Nassau. This time the plundered vessels were American, but not all the victories were won by the privateers. On 3 March 1776, a rebel squadron under Commodore Esek Hopkins arrived and occupied Nassau for two weeks, a bloodless undertaking that emptied the island’s forts of arms and other military supplies. A smaller and equally non-violent American operation against the town in January 1778 lasted less than three days.
+
+Over the centuries, trouble on the nearby American continent has often meant good news for the Bahamas. When Lincoln ordered a blockade of the southern states in 1861 after the outbreak of the Civil War, the Bahamas quickly boomed. Nassau harbor was busy with ships unloading Confederate cotton and tobacco and taking aboard arms, medicine, and manufactured goods, mainly from Europe, to be run back through the northern blockade. As the war went on, speedy and camouflaged contraband vessels were built to slip past the ever-increasing Federal patrols. Profits from blockade running were incredible, and Nassau went wild. But the extravagant parties and carefree spending stopped abruptly with the North’s victory in 1865. Late the following year an immense hurricane sent a tidal wave over Hog Island (today Paradise Island), smashing Nassau’s flimsy buildings and ruining crops. Other islands were also devastated. As the Bahamas sank back into economic doldrums, citizens turned to agriculture, fishing, or salt raking. The spread of lighthouses and decent navigational charts had crippled the old standby, the wrecking trade.
+When the boom suddenly came to an end with the worldwide depression and the repeal of Prohibition in 1933, unemployment rose again, despite the first significant tourism the Bahamas had known.
+```
+```
+grep -i "little" written_2/travel_guides/berlitz2/Algarve-History.txt
+
+Little is known of the earliest Stone Age inhabitants of Europe’s southwestern extremity. The ancient Greeks called them the Cynetes (or Cunetes). Whatever their origins, their culture evolved under the pressure and influence of foreign forces. Among the many invading armies that settled here and contributed to nascent Portuguese culture were Phoenicians, who settled in the area around 1,000 b.c., followed by the Celts, Iberians, Greeks, and Carthaginians.
+
+According to tradition, the site of Prince Henry’s base was the Sagres peninsula (see page 22), though there is little there today to persuade you of this. The actual headquarters of the Navigation School may have been 40 km (25 miles) east, in Lagos (see page 26). This location had a port, shipyards, and was home to the prince in his role as governor of the Algarve.
+
+Among the early blows struck for independence was a rebellion in the town of Olhão (see page 57). On 16 June 1808, the townsfolk — armed with little more than ancient swords, spears, and stones — attacked and captured the local French garrison. It’s said that a party of local men then set sail from Olhão all the way to Brazil, without maps or navigational aids, to tell the king of the insurrection. The real battle, however, was waged under the leadership of the Duke of Wellington, whose coalition forces expelled the French after two years of bitter fighting.
+```
