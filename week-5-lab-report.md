@@ -95,3 +95,9 @@ grep -c "Lucayans" written_2/travel_guides/berlitz2/Bahamas-History.txt
 grep -c "Bahamas" written_2/travel_guides/berlitz2/Bahamas-History.txt
 23
 ```
+
+
+## Finding the Source
+
+* I searched up 'how to use grep command in linux' and clicked on the first result.
+* This is the [link](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/).
