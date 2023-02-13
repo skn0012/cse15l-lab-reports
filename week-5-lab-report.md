@@ -51,7 +51,7 @@ Among the early blows struck for independence was a rebellion in the town of Olh
 ```
 
 
-## 3. **grep -r "string" directory**. 
+## 3. **grep -r 'string' directory**. 
 
 * This searches a directory and all of its sub-directories for a specific string. It's useful for searching a whole entire directory for a specific string instead of searching individually.
 
