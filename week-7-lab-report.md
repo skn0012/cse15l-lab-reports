@@ -24,7 +24,7 @@
 
 2. To clone the repository:
    1. I went to the forked repository page done in **Setup**, clicked 'Code', clicked 'SSH', then copied the key. The page looked like this and the string circled in red is what I copied: <img width="674" alt="image" src="https://user-images.githubusercontent.com/122576334/221092172-6b79fa99-be30-4519-827c-ea25c851c353.png">
-   2. Going back to VSCode, I typed 'git clone ', pressed <Ctrl + V> to paste the copied key, and then pressed *< Enter >*. The terminal looked like this: 
+   2. Going back to VSCode, I typed 'git clone ', pressed *< Ctrl + V >* to paste the copied key, and then pressed *< Enter >*. The terminal looked like this: 
    <img width="562" alt="image" src="https://user-images.githubusercontent.com/122576334/221092863-85d4a7d1-4644-4be2-8896-76035cabf5af.png">
 
 3. To run the test:
@@ -36,7 +36,9 @@
 
 4. To edit the file to fix the failing test:
    1. I typed *nano ListExamples.java* into the terminal then pressed *< Enter >* which opens up the ListExamples file using the nano text editor.
-   2. I then held the *< Down >* key, pressed the *< Up >* key 7 times, pressed the *< Right >* key 12 times, pressed the *< Backspace >* key 1 time, and typed '2'. This fixes the failing test which was a typo in which the line is supposed to be **index2 += 1;** and not **index1 += 1;**.
-   3. Afterward, 
+   2. I then held the *< Down >* key, pressed the *< Up >* key 7 times, pressed the *< Right >* key 12 times, pressed the *< Backspace >* key 1 time, and typed '2'. This fixes the failing test which was a typo in which the line is supposed to be '**index2 += 1;**' and not '**index1 += 1;**'. 
+   * *Before:* <img width="180" alt="image" src="https://user-images.githubusercontent.com/122576334/221100781-d436743b-74ba-4503-a138-b78babb4e726.png">
+
+   4. Afterward, I pressed *< Ctrl + O >*, pressed *< Enter >*, then 
 
 
