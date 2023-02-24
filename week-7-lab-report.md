@@ -23,5 +23,5 @@
    1. I went to the forked repository page done in **Setup**, clicked 'Code', clicked 'SSH', then copied the key. The page looked like this and the string circled in red is what I copied: <img width="674" alt="image" src="https://user-images.githubusercontent.com/122576334/221092172-6b79fa99-be30-4519-827c-ea25c851c353.png">
    2. Going back to VSCode, I typed 'git clone ', pressed *Ctrl + V* to paste the copied key, and then pressed enter. The terminal looked like this: 
    <img width="562" alt="image" src="https://user-images.githubusercontent.com/122576334/221092863-85d4a7d1-4644-4be2-8896-76035cabf5af.png">
-3. 
+3. To test the ListExamples.java file, I copied 'javac -cp ".;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar" *.java' 
 
