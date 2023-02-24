@@ -50,7 +50,7 @@
    
    <img width="180" alt="image" src="https://user-images.githubusercontent.com/122576334/221100859-472eef2f-3c58-4231-a04c-3440c5ddfd69.png">
 
-   4. Afterward, I pressed *< Ctrl + O >*, pressed *< Enter >*, then pressed *< Ctrl + X >*. This saves the changes to the file and closes the nano editor.
+   3. Afterward, I pressed *< Ctrl + O >*, pressed *< Enter >*, then pressed *< Ctrl + X >*. This saves the changes to the file and closes the nano editor.
 
 5. To run the test after fixing the mistake:
    1. Since I compiled the java files before this, I pressed the *< Up >* key 3 times and pressed *< Enter >* to compile the tests.
