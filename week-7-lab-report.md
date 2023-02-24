@@ -31,6 +31,7 @@
    1. I typed *cd lab7* and pressed *< Enter >* to change the directory to lab7.
    2. I copied and pasted 'javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java' from the Week 3 Lab page and pressed *< Enter >* to compile all the java files.
    3. Afterward, I copied and pasted 'java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore' from the same Lab page, then typed 'ListExamplesTests', and pressed *< Enter >* to run the test.
-   * This is what it looks like: <img width="761" alt="image" src="https://user-images.githubusercontent.com/122576334/221099000-282cd64d-2bd3-4bad-b0d2-26015114926f.png">
+   * This is what it looks like: 
+   <img width="761" alt="image" src="https://user-images.githubusercontent.com/122576334/221099000-282cd64d-2bd3-4bad-b0d2-26015114926f.png">
 
 
