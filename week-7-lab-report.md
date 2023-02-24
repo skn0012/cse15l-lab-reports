@@ -4,10 +4,11 @@
 
 ## Setup
 
-* Skip steps 1-3 if you have not cloned lab7 into the ieng6 directory.
-1. Log into the *ieng6* server. 
-2. Type *ls* into the terminal and check if lab7 is in the ieng6 directory.
-3. If lab7 is in the directory:
-   1. Type *rm -r lab7* into the terminal and press enter.
-   2. Four questions will pop up (one after the other), for each one, type *yes* into the terminal and press enter.
+1. I logged into the ieng6 server by doing *ssh cs15lwi23aiz@ieng6.ucsd.edu*. (No password since I setted it up so that I didn't have to input a password to log in)
+2. Typed *ls* into the terminal and checked if lab7 was in the ieng6 directory.
+3. If lab7 was in the directory:
+   1. Typed *rm -r lab7* into the terminal and pressed enter.
+   2. Four questions popped up (one after the other), for each one, typed *yes* into the terminal and pressed enter. It looked like this:
+![image](https://user-images.githubusercontent.com/122576334/221089808-74b13f13-82d8-4800-acfb-e08a6d541819.png)
+
 4.  
