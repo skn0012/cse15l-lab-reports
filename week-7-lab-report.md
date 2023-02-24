@@ -4,7 +4,7 @@
 
 ## Setup
 
-1. I logged into the ieng6 server by typing *ssh cs15lwi23aiz@ieng6.ucsd.edu* into the terminal. (No password since I setted it up so that I didn't have to input a password to log in)
+1. I logged into the ieng6 server by typing *ssh cs15lwi23aiz@ieng6.ucsd.edu* into the terminal and pressing *< Enter >*. (No password since I setted it up so that I didn't have to input a password to log in)
 
 2. Typed *ls* into the terminal and checked if lab7 was in the ieng6 directory.
 
@@ -20,7 +20,7 @@
 
 ## Challenge
 
-1. I logged into the ieng6 server by typing *ssh cs15lwi23aiz@ieng6.ucsd.edu* into the terminal.
+1. I logged into the ieng6 server by typing *ssh cs15lwi23aiz@ieng6.ucsd.edu* into the terminal and pressing *< Enter >*.
 
 2. To clone the repository:
    1. I went to the forked repository page done in **Setup**, clicked 'Code', clicked 'SSH', then copied the key. The page looked like this and the string circled in red is what I copied: <img width="674" alt="image" src="https://user-images.githubusercontent.com/122576334/221092172-6b79fa99-be30-4519-827c-ea25c851c353.png">
@@ -49,6 +49,12 @@
    1. Since I compiled the java files before this, I pressed the *< Up >* key 3 times and pressed *< Enter >* to compile the tests.
    2. Then, I ran the test by pressing the *< Up >* key 3 times and pressed *< Enter >*. This is what it looks like:
    <img width="757" alt="image" src="https://user-images.githubusercontent.com/122576334/221101937-4679f15f-ae48-458a-a164-621bafeb1f57.png">
+
+6. To commmit and push the changes to Github:
+   1. I typed *git add ListExamples.java* and pressed *< Enter >* to the staging area to be committed.
+   2. Afterward, I typed *git commit -m "Fixed"* and pressed *< Enter >* to commit the changes.
+   3. Lastly, I typed *git push origin main* and pressed *< Enter >* to push the changes to the Github repository. This is what it looks like after doing that:
+   <img width="385" alt="image" src="https://user-images.githubusercontent.com/122576334/221103002-ac034022-76c1-409d-9f1c-ec40c8b077c9.png">
 
 
 
