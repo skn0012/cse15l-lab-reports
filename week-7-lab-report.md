@@ -50,11 +50,22 @@
    2. Then, I ran the test by pressing the *< Up >* key 3 times and pressed *< Enter >*. This is what it looks like:
    <img width="757" alt="image" src="https://user-images.githubusercontent.com/122576334/221101937-4679f15f-ae48-458a-a164-621bafeb1f57.png">
 
-6. To commmit and push the changes to Github:
+6. To commit and push the changes to Github:
    1. I typed *git add ListExamples.java* and pressed *< Enter >* to the staging area to be committed.
    2. Afterward, I typed *git commit -m "Fixed"* and pressed *< Enter >* to commit the changes.
    3. Lastly, I typed *git push origin main* and pressed *< Enter >* to push the changes to the Github repository. This is what it looks like after doing that:
    <img width="385" alt="image" src="https://user-images.githubusercontent.com/122576334/221103002-ac034022-76c1-409d-9f1c-ec40c8b077c9.png">
+   
+## Some before and after screenshots:
+
+* Original:
+<img width="660" alt="image" src="https://user-images.githubusercontent.com/122576334/221103320-d8195adc-e636-4e2e-bae0-bbbe347df1ad.png">
+
+* After changes:
+<img width="661" alt="image" src="https://user-images.githubusercontent.com/122576334/221103391-3925bc11-b9bb-41b1-8bfb-7d1f863e2b3e.png">
+
+
+
 
 
 
