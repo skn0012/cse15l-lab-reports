@@ -34,4 +34,8 @@
    * This is what it looks like: 
    <img width="761" alt="image" src="https://user-images.githubusercontent.com/122576334/221099000-282cd64d-2bd3-4bad-b0d2-26015114926f.png">
 
+4. To edit the file to fix the failing test:
+   1. I typed *nano ListExamples.java* into the terminal then pressed *< Enter >* which opens up the ListExamples file using the nano text editor.
+   2. I then held the *< Down >* key, pressed the *< Up >* key 7 times, pressed the *< Right >* key 12 times, pressed the *< Backspace >* key 1 time, and typed '2'.
+
 
