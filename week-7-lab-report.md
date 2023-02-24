@@ -47,6 +47,8 @@
 
 5. To run the test after fixing the mistake:
    1. Since I compiled the java files before this, I pressed the *< Up >* key 3 times and pressed *< Enter >* to compile the tests.
-   2. Then, I ran the test by pressing the *< Up >* key 3 times and pressed *< Enter >*. 
+   2. Then, I ran the test by pressing the *< Up >* key 3 times and pressed *< Enter >*. This is what it looks like:
+   <img width="757" alt="image" src="https://user-images.githubusercontent.com/122576334/221101937-4679f15f-ae48-458a-a164-621bafeb1f57.png">
+
 
 
