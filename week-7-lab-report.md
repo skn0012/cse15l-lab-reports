@@ -4,7 +4,7 @@
 
 ## Setup
 
-1. I logged into the ieng6 server by typing *ssh cs15lwi23aiz@ieng6.ucsd.edu* into the terminal and pressing *< Enter >*. (No password since I setted it up so that I didn't have to input a password to log in)
+1. I logged into the ieng6 server by typing *ssh cs15lwi23aiz@ieng6.ucsd.edu* into the terminal and pressed *< Enter >*.
 
 2. Typed *ls* into the terminal and checked if lab7 was in the ieng6 directory.
 
