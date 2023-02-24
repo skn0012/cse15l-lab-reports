@@ -14,4 +14,4 @@
 4.  To unfork the lab7 repository, I logged into github on the website, clicked my profile picture on the topright corner, clicked 'Your repositories', clicked on 'lab7', clicked on settings, scrolled all the way down, clicked 'Delete this repository', typed skn0012/lab7, and clicked 'I understand the consequences, delete this repository'. The page before deleting the repository looked like this:
 <img width="599" alt="image" src="https://user-images.githubusercontent.com/122576334/221090923-44aea006-2801-418f-90ff-1d22a09fa570.png">
 
-6. To fork the lab7 repository, 
+6. To fork the lab7 repository, I went to [this](https://github.com/ucsd-cse15l-w23/lab7) repository, clicked 'Fork', and 'Create fork'.
