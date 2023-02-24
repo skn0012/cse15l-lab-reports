@@ -4,7 +4,7 @@
 
 ## Setup
 
-1. I logged into the ieng6 server by doing *ssh cs15lwi23aiz@ieng6.ucsd.edu*. (No password since I setted it up so that I didn't have to input a password to log in)
+1. I logged into the ieng6 server by typing *ssh cs15lwi23aiz@ieng6.ucsd.edu* into the terminal. (No password since I setted it up so that I didn't have to input a password to log in)
 2. Typed *ls* into the terminal and checked if lab7 was in the ieng6 directory.
 3. If lab7 was in the directory:
    1. Typed *rm -r lab7* into the terminal and pressed enter.
@@ -15,3 +15,11 @@
 <img width="599" alt="image" src="https://user-images.githubusercontent.com/122576334/221090923-44aea006-2801-418f-90ff-1d22a09fa570.png">
 
 6. To fork the lab7 repository, I went to [this](https://github.com/ucsd-cse15l-w23/lab7) repository, clicked 'Fork', and 'Create fork'.
+
+## Challenge
+
+1. I logged into the ieng6 server by typing *ssh cs15lwi23aiz@ieng6.ucsd.edu* into the terminal.
+2. I cloned the repository by going to the forked repository page done in the **Setup**, clicked 'Code', clicked 'SSH', then copied the key. It looked like this:
+<img width="674" alt="image" src="https://user-images.githubusercontent.com/122576334/221091982-05245113-dd84-4546-a775-320474ee1df4.png">
+3. 
+
