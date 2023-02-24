@@ -37,7 +37,10 @@
 4. To edit the file to fix the failing test:
    1. I typed *nano ListExamples.java* into the terminal then pressed *< Enter >* which opens up the ListExamples file using the nano text editor.
    2. I then held the *< Down >* key, pressed the *< Up >* key 7 times, pressed the *< Right >* key 12 times, pressed the *< Backspace >* key 1 time, and typed '2'. This fixes the failing test which was a typo in which the line is supposed to be '**index2 += 1;**' and not '**index1 += 1;**'. 
-   * *Before:* <img width="180" alt="image" src="https://user-images.githubusercontent.com/122576334/221100781-d436743b-74ba-4503-a138-b78babb4e726.png">
+   * *Before:* 
+   <img width="180" alt="image" src="https://user-images.githubusercontent.com/122576334/221100781-d436743b-74ba-4503-a138-b78babb4e726.png">
+   * *After:*
+   <img width="180" alt="image" src="https://user-images.githubusercontent.com/122576334/221100859-472eef2f-3c58-4231-a04c-3440c5ddfd69.png">
 
    4. Afterward, I pressed *< Ctrl + O >*, pressed *< Enter >*, then 
 
