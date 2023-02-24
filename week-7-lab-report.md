@@ -8,7 +8,7 @@
 2. Typed *ls* into the terminal and checked if lab7 was in the ieng6 directory.
 3. If lab7 was in the directory:
    1. Typed *rm -r lab7* into the terminal and pressed enter.
-   2. Four questions popped up (one after the other), for each one, typed *yes* into the terminal and pressed enter. It looked like this:
+   2. Four questions popped up (one after the other), for each one, I typed *yes* into the terminal and pressed enter. It looked like this:
 ![image](https://user-images.githubusercontent.com/122576334/221089808-74b13f13-82d8-4800-acfb-e08a6d541819.png)
 
-4.  
+4.  To unfork the lab7 repository, I logged into github on the website, clicked my profile picture on the topright corner, clicked 'Your repositories', clicked on 'lab7', clicked on settings, scrolled all the way down, clicked 'Delete this repository', typed (my github username)/lab7, and clicked 'I understand the consequences, delete this repository'.
