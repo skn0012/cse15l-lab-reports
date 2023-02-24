@@ -2,6 +2,7 @@
 
 ## Challenge Task
 
-## 1. Remove lab7 Directory (skip if lab7 directory is not in ieng6 directory)
+## Setup
 
-1. Type *ls* into the terminal and check if lab
+1. Log into the _ieng6_ server
+2. Type *ls* into the terminal and check if lab7 is in the ieng6 directory
