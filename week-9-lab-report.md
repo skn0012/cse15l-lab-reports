@@ -158,6 +158,6 @@ find: 'jpolitz' is not the name of a known user
 ## Finding the Source
 
 * I searched up 'how to use the command find in linux'.
-* I used two websites. Here are the links
+* I used two websites. Here are the links:
     * [Link 1](https://www.redhat.com/sysadmin/linux-find-command)
     * [Link 2](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)
