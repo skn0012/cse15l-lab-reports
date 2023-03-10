@@ -4,7 +4,7 @@
 
 * This time I did the command *find*.
 
-## 1. **find -name "Bahamas-History.txt"**
+## 1. **find -name "filename"**
 
 * This searches for the specific file name that the user inputs in the current directory and its subdirectories. It's useful for searching a whole directory for a single file by name.
 
